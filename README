@@ -1,7 +1,7 @@
 Base Kohana3 pagination module, just changed the views. 
 
 In the original one, if we were on the first page, pagination was showing first and previous as normal text.
-In this version we have the span around it.
+In this version we have the span around it, so You can hide them.
 
 Moreover, the pagination is prepared for older browser, which doesn't understand the a[rel=prev] css selectors. 
 So, for them there is a suitable class added. 
